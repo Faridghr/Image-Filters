@@ -5,7 +5,7 @@ Image Filters is a Python project that offers a collection of creative filters f
 
 
 ## Project Structure
-- **doc/**: Stores [Documentes](doc) files.
+- **doc/**: Stores [Documents](doc) files.
 - **img/**: Contains input and output images.
 - **src/**: Contains Python scripts.
 
@@ -27,20 +27,20 @@ os
 ## Examples
 Below are some examples of images processed using the filters:
 1. **Black and Color Filter:**
-![Input](https://github.com/Faridghr/Image-Filters/image1.png?raw=true)
-![Black and White Filter](https://github.com/Faridghr/Image-Filters/blackAndColor_output.png?raw=true)
+![Input](https://github.com/Faridghr/Image-Filters/blob/main/img/image1.png?raw=true)
+![Black and White Filter](https://github.com/Faridghr/Image-Filters/blob/main/img/blackAndColor_output.png?raw=true)
 
 
 2. **Cartoon Filter:**
-![Input](https://github.com/Faridghr/Image-Filters/image2.jpg?raw=true)
-![Cartoon Filter](https://github.com/Faridghr/Image-Filters/cartoon_output.png?raw=true)
+![Input](https://github.com/Faridghr/Image-Filters/blob/main/img/image2.jpg?raw=true)
+![Cartoon Filter](https://github.com/Faridghr/Image-Filters/blob/main/img/cartoon_output.png?raw=true)
 
 
 3. **Black and Orange Filter:**
-![Input](https://github.com/Faridghr/Image-Filters/image1.png?raw=true)
-![Black and Orange Filter](https://github.com/Faridghr/Image-Filters/blackAndOrange_output.png?raw=true)
+![Input](https://github.com/Faridghr/Image-Filters/blob/main/img/image1.png?raw=true)
+![Black and Orange Filter](https://github.com/Faridghr/Image-Filters/blob/main/img/blackAndOrange_output.png?raw=true)
 
 
 4. **Sketch Filter:**
-![Input](https://github.com/Faridghr/Image-Filters/image1.png?raw=true)
-![Black and Color Filter](https://github.com/Faridghr/Image-Filters/sketch_output.png?raw=true)
+![Input](https://github.com/Faridghr/Image-Filters/blob/main/img/image1.png?raw=true)
+![Black and Color Filter](https://github.com/Faridghr/Image-Filters/blob/main/img/sketch_output.png?raw=true)
