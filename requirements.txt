@@ -1,0 +1,7 @@
+opencv-python
+imageio 
+scipy
+matplotlib
+numpy
+sys
+os
